@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="enter">Entrar</string>
+    <string name="singIn">Não tem uma conta? Clique aqui!</string>
+    <string name="insert">Cadastrar</string>
+</resources>

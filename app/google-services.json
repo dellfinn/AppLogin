@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880749197790",
+    "project_id": "moonchats",
+    "storage_bucket": "moonchats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880749197790:android:f338def411252626bb454f",
+        "android_client_info": {
+          "package_name": "com.calculadora.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880749197790-3r2e0pofa5qdbqaieg53uect64b23vhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnFL5gXQj-aKX7jMPTEDMlELUPauF7HNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880749197790-3r2e0pofa5qdbqaieg53uect64b23vhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
